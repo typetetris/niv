@@ -65,7 +65,7 @@ library
     , hashable
     , http-conduit
     , mtl
-    , optparse-applicative
+    , optparse-applicative >= 0.15 && < 0.16
     , process
     , profunctors
     , pureMD5
